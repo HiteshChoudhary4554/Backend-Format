@@ -1,5 +1,3 @@
-const DB_NAME = "taskManager";
-const category = ["cohort", "extra", "college"];
-const status = ["due", "ongoing", "completed"];
+const DB_NAME = "smartSociety";
 
-export { DB_NAME, category, status };
+export { DB_NAME };
